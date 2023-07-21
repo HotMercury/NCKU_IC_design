@@ -1,12 +1,13 @@
 hw1 : easy operations
 
-hw2 : 列車問題
+hw2 : The train problem
 
 hw3 : Arithmetic with +,-,\
 there 60 test data
 linux command : vsim
 simulater and run all 
 
-hw4 : 圖片計算並操空memory
+hw4 : CNN 
+computing the picture and store in memory
 
-hw5 : 解壓縮圖片
+hw5 : picture compression
